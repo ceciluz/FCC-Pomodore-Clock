@@ -1,0 +1,14 @@
+body{
+  background-image: url(https://ichef.bbci.co.uk/wwfeatures/live/976_549/images/live/p0/4w/46/p04w46sp.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Girassol";
+}
+
+h2{
+  display: inline;
+}
+#start{
+  margin:10px;
+}
